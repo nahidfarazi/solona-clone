@@ -1,0 +1,30 @@
+body{
+
+    background-color: black;
+}
+.hero{
+
+    background: url('./images/main.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+
+}
+.community_section{
+    
+   background-color: black;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+.adoption{
+
+    background: url('./images//secont.png');
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    object-fit: cover;
+    margin-top: -150px;
+}

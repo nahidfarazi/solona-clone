@@ -1,11 +1,12 @@
 import React from 'react';
-import Home from './pages/Home';
-
+import Navbar from './Navbar';
+import Main from './pages/Main'
 
 function App() {
   return (
     <div className="App">
-        <Home />
+        <Navbar />
+        <Main />
     </div>
   );
 }
